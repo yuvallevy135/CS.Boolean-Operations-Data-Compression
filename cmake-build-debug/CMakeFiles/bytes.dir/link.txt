@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bytes.dir/main.c.o CMakeFiles/bytes.dir/bytes.c.o  -o bytes 
